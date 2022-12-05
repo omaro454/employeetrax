@@ -1,4 +1,4 @@
-# Text Editor PWA
+# Employee Tracking Application
 
 ## Description
 
