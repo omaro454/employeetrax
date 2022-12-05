@@ -49,7 +49,9 @@ Nodejs packages are needed. 'npm i' to install
 
 ## Screenshots
 
-![Screenshot](./assets/screeno.png)
+![Screenshot](./assets/images/scrrenop1.png)
+
+![Screenshot2](./assets/images/scrrenop1.png)
 
 ## Contact Information
 
